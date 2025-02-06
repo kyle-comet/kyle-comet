@@ -1,7 +1,7 @@
-# hey, Kyle here
+# hey
 
-**welcome :D**  
-i’m passionate about embedded machine learning & vision on microcontrollers
+**welcome :P**  
+throwing some code on microcontrollers for computer vision, finally putting it on the web
 ## GitHub Stats
 
 <!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
@@ -22,10 +22,6 @@ i’m passionate about embedded machine learning & vision on microcontrollers
 ## About Me
 
 - 🔭 I’m currently working on: **Embedded ML for resource-constrained devices**  
-- 🌱 I’m currently learning: **Advanced sensor fusion and DSP**  
-- 💬 Ask me about: **TinyML, real-time systems, or custom hardware design**  
-- ⚡ Fun fact: I can blink an LED in at least 5 different languages!
 
 
 
-> “If you think you understand it, build it on a microcontroller!” – Me, probably
